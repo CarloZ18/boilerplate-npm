@@ -3,6 +3,7 @@
   "author": "Carlos",
   "description": "This project is to learn node",
   "keywords": ["freecodecamp", "project", "backend"],
+  "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
   },
